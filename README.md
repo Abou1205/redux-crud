@@ -24,12 +24,12 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
 
 ## Technologies
 
-**React:** A JavaScript library for building user interfaces.
-**Redux Toolkit:** State management library for React applications.
-**React Router DOM:** Declarative routing for React.js.
-**React-Redux:** Official React bindings for Redux.
-**TailwindCss:** Simplifies styling with a utility-first approach.
-**React Icons:** Provides popular icons as React components.
+- **React:** A JavaScript library for building user interfaces.
+- **Redux Toolkit:** State management library for React applications.
+- **React Router DOM:** Declarative routing for React.js.
+- **React-Redux:** Official React bindings for Redux.
+- **TailwindCss:** Simplifies styling with a utility-first approach.
+- **React Icons:** Provides popular icons as React components.
 
 ## Installation
 
